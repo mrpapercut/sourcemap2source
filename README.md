@@ -6,6 +6,7 @@ Module to decompile sourcemaps into full source-trees
 
 ## Options
 | Parameter | Argument | Description |
+| --- | --- | --- |
 | -s | SOURCEMAP_FILE | Sourcemap file .js.map |
 | -o | OUTPUT_DIRECTORY | Output directory for generated source tree |
 
